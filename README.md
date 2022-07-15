@@ -1,4 +1,5 @@
 # LeahyAnalysis
+# edit: unable to upload code/data to github so I created a box folder for access: https://rochester.box.com/s/uporcnairpoy71h3hayjspb7vuuw6mpt
 General workflow:
 Raw data had to be downloaded using academic torrents; since only subject P01's results were inlcuded in report, I only included their raw data (under \OpenMIIR-RawEEG_v1).
 
